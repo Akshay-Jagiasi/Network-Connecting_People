@@ -14,13 +14,8 @@ ________________________________________________________________________________
 𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗜𝗘𝗦 𝗨𝗦𝗘𝗗
 
 ReactJS: a JavaScript library for building user interfaces 
-
 Redux: a JavaScript library for managing application state 
-
 Firebase: a platform for managing data and user authentication 
-
 CSS: a stylesheet language for describing the look and formatting of a document 
-
 Netlify: a cloud platform for hosting websites 
-
 Material UI: a library of React components that implement the material design guidelines
