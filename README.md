@@ -29,11 +29,11 @@ ________________________________________________________________________________
 ```
 git clone https://github.com/<your-github-username>/network-connecting-people.git
 ```
-1. Install all the dependencies
+3. Install all the dependencies
     ```bash
     npm i
     ```
-1. Setup Firebase
+4. Setup Firebase
 
     - Follow the steps below to set up Firebase for the project:
     - Go to the Firebase Console
@@ -65,7 +65,7 @@ In the project, go to the src/firebase.js file and add your Firebase credentials
         export default firebase;
          
 
-1. **Start the development server Use the following command to start the development server:**
+5. **Start the development server Use the following command to start the development server:**
         ```
         npm start
         ```
